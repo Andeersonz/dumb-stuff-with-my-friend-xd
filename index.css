@@ -22,7 +22,7 @@ div {
   background-color: rgb(22, 22, 68);
   justify-content: center;
   width: 1000px;
-  height: 1000px;
+  height: 1100px;
   border-radius: 100px;
 }
 
@@ -66,7 +66,7 @@ div {
   justify-content: space-around;
   background-color: rgba(0, 0, 0, .3);
   margin-top: 50px;
-  height: 800px;
+  height: 900px;
   width: 900px;
   border-radius: 20px;
 }
@@ -98,4 +98,18 @@ div {
   border: none;
   border-radius: 10px;
   width: 150px;
+}
+
+.submitButtonContainer {
+  margin-top: 30px;
+}
+
+.submit {
+  border: none;
+  font-size: 30px;
+  padding: 10px 10px;
+  border-radius: 15px;
+  background-color: rgb(255, 0, 0);
+  cursor: pointer;
+  color: white;
 }
